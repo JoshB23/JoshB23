@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @JoshB23
-- 🌱 I’m currently learning Unity and C# coding 
-- 📫 How to reach me - https://www.linkedin.com/in/josh-brennan-b02525232/
+- 🌱 I’m currently learning Unity and C#
+- 📫 How to reach me - https://www.linkedin.com/in/jb23/
+- Check out my work - https://joshb23.itch.io
