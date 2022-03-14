@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoshB23
-- 🌱 I’m currently learning Unity and C#
-- 📫 How to reach me - https://www.linkedin.com/in/jb23/
+- 👋 Hi, I’m Josh Brennan. I'm 26 years old and reside in Melbourne, Australia. 
+- I’m currently learning Unity and C# whilst I complete my Bachelor's Degree of Video Game Design at JMC Academy in South Melbourne.
+- How to reach me - https://www.linkedin.com/in/jb23/
 - Check out my work - https://joshb23.itch.io
